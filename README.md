@@ -1,5 +1,6 @@
 # USI_AI_CUP
 
+University CUP - Traveller Salesman Problem 
 
 Problem | Best Known | my Result | Error 
 --- | --- | --- | --- 
